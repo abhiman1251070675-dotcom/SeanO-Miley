@@ -1,0 +1,8 @@
+node_modules/
+dist/
+assets_upload/
+*.local
+.DS_Store
+.vercel
+.netlify
+preview.log
